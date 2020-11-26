@@ -49,10 +49,4 @@ SQL
 
 ---
 
-## Projects
-
-- [comexdown](https://github.com/dankkom/comexdown)
-- [tddata](https://github.com/dankkom/tddata)
-- [kmldata](https://github.com/dankkom/kmldata)
-
 (☞ﾟヮﾟ)☞
