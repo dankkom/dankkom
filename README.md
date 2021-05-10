@@ -1,7 +1,5 @@
 # About me
 
-My name is Daniel Komesu.
-
 [[GitHub](https://github.com/dankkom)]
 [[Twitter](https://twitter.com/dankkom)]
 [[LinkedIn](https://www.linkedin.com/in/daniel-komesu/)]
