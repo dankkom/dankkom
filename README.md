@@ -1,6 +1,6 @@
 # About me
 
-Hi! My name is Daniel Komesu. I work at Instituto de Economia Agrícola (IEA) of Agência Paulista de Tecnologia dos Agronegócios (APTA) of Secretaria de Agricultura e Abastecimento of São Paulo State (SAA/SP), Brazil, as technical advisor.
+My name is Daniel Komesu.
 
 [[GitHub](https://github.com/dankkom)]
 [[Twitter](https://twitter.com/dankkom)]
