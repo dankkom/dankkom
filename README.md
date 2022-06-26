@@ -29,23 +29,23 @@ Coursera:
 
 ---
 
-## Skills
+## Skills/Tools
 
-![Python Programming Language](http://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python)
-![pandas](https://img.shields.io/badge/-pandas-ffffff?style=flat-square&logo=pandas)
-![Jupyter](https://img.shields.io/badge/-jupyter-ffffff?style=flat-square&logo=jupyter)
-![Flask](http://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask)
-
-![R Programming Language](http://img.shields.io/badge/-R-ffffff?style=flat-square&logo=R)
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-ffffff?style=flat-square&logo=SQLite)
-
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-007ACC?style=flat-square&logo=sublimetext)
-
-![Google Analytics](http://img.shields.io/badge/-Google%20Analytics-ffffff?style=flat-square&logo=googleanalytics)
-![Google Earth](http://img.shields.io/badge/-Google%20Earth-ffffff?style=flat-square&logo=googleearth)
+![Python Programming Language](http://img.shields.io/badge/-Python%20Programming%20Language-ffffff?style=for-the-badge&logo=python)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas)
+![Jupyter](https://img.shields.io/badge/-jupyter-ffffff?style=for-the-badge&logo=jupyter)
+![Flask](http://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![R Programming Language](http://img.shields.io/badge/-R%20Programming%20Language-ffffff?style=for-the-badge&logo=R&logoColor=276DC3)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=SQLite)
+![VS Code](http://img.shields.io/badge/-VS%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ffffff?style=for-the-badge&logo=sublimetext)
+![Neovim](http://img.shields.io/badge/-Neovim-ffffff?style=for-the-badge&logo=neovim)
+![Google Analytics](http://img.shields.io/badge/-Google%20Analytics-ffffff?style=for-the-badge&logo=googleanalytics)
+![Google Earth](http://img.shields.io/badge/-Google%20Earth-ffffff?style=for-the-badge&logo=googleearth)
+![Inkscape](http://img.shields.io/badge/-Inkscape-ffffff?style=for-the-badge&logo=inkscape&logoColor=000000)
+![Blender 3D](http://img.shields.io/badge/-Blender%203D-ffffff?style=for-the-badge&logo=blender)
+![FFmpeg](http://img.shields.io/badge/-FFmpeg-007808?style=for-the-badge&logo=ffmpeg)
 
 ---
 
