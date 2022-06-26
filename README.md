@@ -1,8 +1,8 @@
 # About me
 
-[[GitHub](https://github.com/dankkom)]
-[[Twitter](https://twitter.com/dankkom)]
-[[LinkedIn](https://www.linkedin.com/in/daniel-komesu/)]
+![GitHub followers](https://img.shields.io/github/followers/dankkom?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dankkom?style=social)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/daniel-komesu/)](https://linkedin.com/in/daniel-komesu/)
 
 ---
 
@@ -31,19 +31,21 @@ Coursera:
 
 ## Skills
 
-Python Programming Language
+![Python Programming Language](http://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python)
+![pandas](https://img.shields.io/badge/-pandas-ffffff?style=flat-square&logo=pandas)
+![Jupyter](https://img.shields.io/badge/-jupyter-ffffff?style=flat-square&logo=jupyter)
+![Flask](http://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask)
 
-- Pandas
-- Jupyter
+![R Programming Language](http://img.shields.io/badge/-R-ffffff?style=flat-square&logo=R)
 
-R Programming Language
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat-square&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-ffffff?style=flat-square&logo=SQLite)
 
-- tidyverse
-- ggplot2
-- dplyr
-- shiny apps
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-007ACC?style=flat-square&logo=sublimetext)
 
-SQL
+![Google Analytics](http://img.shields.io/badge/-Google%20Analytics-ffffff?style=flat-square&logo=googleanalytics)
+![Google Earth](http://img.shields.io/badge/-Google%20Earth-ffffff?style=flat-square&logo=googleearth)
 
 ---
 
