@@ -1,7 +1,6 @@
 # About me
 
 ![GitHub followers](https://img.shields.io/github/followers/dankkom?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/dankkom?style=social)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/daniel-komesu/)](https://linkedin.com/in/daniel-komesu/)
 
 ---
