@@ -25,6 +25,8 @@ Coursera:
   - Johns Hopkins University
 - Welcome to Game Theory
   - The University of Tokyo
+- [Modernizing Data Lakes and Data Warehouses with GCP](https://coursera.org/share/9e68309318cb2bf7b6571d33ae641568)
+  - Google Cloud
 
 ---
 
