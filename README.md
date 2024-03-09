@@ -11,22 +11,16 @@ Bachelor’s degree in Economics (2015-2018) at Universidade Paulista (UNIP)
 
 Coursera:
 
-- [O Poder da Macroeconomia: princípios da economia no mundo real (em Português)](https://www.coursera.org/account/accomplishments/records/2U3RRQCSARJX)
-  - University of California, Irvine
-- [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/S5JX66V2G7JJ)
-  - Johns Hopkins University
-- [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/WHLX7KBAFKBN)
-  - Johns Hopkins University
-- [R Programming](https://www.coursera.org/account/accomplishments/records/ZYRNCYVJ989N)
-  - Johns Hopkins University
-- [Reproducible Research](https://www.coursera.org/account/accomplishments/records/PYLJ5WQJQCS4)
-  - Johns Hopkins University
-- [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/7CUJ954AU45S)
-  - Johns Hopkins University
-- Welcome to Game Theory
-  - The University of Tokyo
-- [Modernizing Data Lakes and Data Warehouses with GCP](https://coursera.org/share/9e68309318cb2bf7b6571d33ae641568)
-  - Google Cloud
+| Nome do Curso                                                                                                                                          | Instituição                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
+| [O Poder da Macroeconomia: princípios da economia no mundo real (em Português)](https://www.coursera.org/account/accomplishments/records/2U3RRQCSARJX) | University of California, Irvine |
+| [The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/records/S5JX66V2G7JJ)                                                  | Johns Hopkins University         |
+| [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/records/WHLX7KBAFKBN)                                                     | Johns Hopkins University         |
+| [R Programming](https://www.coursera.org/account/accomplishments/records/ZYRNCYVJ989N)                                                                 | Johns Hopkins University         |
+| [Reproducible Research](https://www.coursera.org/account/accomplishments/records/PYLJ5WQJQCS4)                                                         | Johns Hopkins University         |
+| [Getting and Cleaning Data](https://www.coursera.org/account/accomplishments/records/7CUJ954AU45S)                                                     | Johns Hopkins University         |
+| Welcome to Game Theory                                                                                                                                 | The University of Tokyo          |
+| [Modernizing Data Lakes and Data Warehouses with GCP](https://coursera.org/share/9e68309318cb2bf7b6571d33ae641568)                                     | Google Cloud                     |
 
 ---
 
@@ -47,7 +41,3 @@ Coursera:
 ![Inkscape](http://img.shields.io/badge/-Inkscape-ffffff?style=for-the-badge&logo=inkscape&logoColor=000000)
 ![Blender 3D](http://img.shields.io/badge/-Blender%203D-ffffff?style=for-the-badge&logo=blender)
 ![FFmpeg](http://img.shields.io/badge/-FFmpeg-007808?style=for-the-badge&logo=ffmpeg)
-
----
-
-(☞ﾟヮﾟ)☞
