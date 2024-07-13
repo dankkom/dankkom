@@ -11,7 +11,7 @@
 
 ## Education
 
-Bachelor’s degree in Economics (2015-2018) at Universidade Paulista (UNIP)
+Bachelor’s degree in Economics (2015-2018)
 
 Coursera:
 
