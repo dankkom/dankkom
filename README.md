@@ -56,10 +56,8 @@ My CV Lattes: http://lattes.cnpq.br/4839987313912355
 
 * Developing data processing and analysis routines to support the production of technical reports and policy recommendations.
 * Creating interactive dashboards to visualize data and facilitate the understanding of complex information.
-* Collaborating with researchers and technicians to improve the quality and relevance of the Institute's publications.
-* Participating in the development of projects and studies to support the decision-making of public and private agents in the agricultural sector.
+* Participating in the development of projects and studies to support the decision-making of public and private agents in the infrastructure sector.
 * Contributing to the dissemination of knowledge through the publication of articles and technical notes.
-* Supporting the organization of events and seminars to promote the exchange of experiences and the dissemination of research results.
 
 (2018-02 : 2022-01) **Technical Advisor** at **Instituto de Economia Agrícola (IEA)**<br/>_São Paulo, Brazil_
 
@@ -79,9 +77,11 @@ My CV Lattes: http://lattes.cnpq.br/4839987313912355
 
 ## Education
 
+Specialization in Data Science and Analytics (2023-11 : 2025-05 _ongoing_)
+
 Bachelor’s degree in Economics (2015-2018)
 
-Coursera:
+Courses & Certifications:
 
 | Course name                                                                                                                                            | Institution                      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- |
